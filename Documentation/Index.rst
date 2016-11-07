@@ -39,7 +39,7 @@ My Public Info Project
 
 .. _Martin: martin.bless@mbless.de
 
-Hallo,
+Hallo Gernot,
 
 Martin_ hier. Worum geht's?
 
